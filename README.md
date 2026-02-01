@@ -19,10 +19,10 @@ A simple Hello World from GPU
 ```
 ### Modified output 
 
-       modified this 
-              |  
-              ˇ
 ```sh
+          modified this 
+                 |  
+                 ˇ
 int(main)
     {
         kernel<<<1,2>>>();
